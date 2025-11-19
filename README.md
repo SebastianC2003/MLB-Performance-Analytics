@@ -83,4 +83,4 @@ Illustrates the correlation between home runs and victories, showing how it vari
 
 ### 📚 Full Project Report
 
-The complete analysis, including detailed data preparation steps, all four K-means clusters, and supplementary visualizations (e.g., Hits to Runs line chart), can be found in the comprehensive project report: **Business Understanding (2).pdf**.
+The complete analysis, including detailed data preparation steps, all four K-means clusters, and supplementary visualizations (e.g., Hits to Runs line chart), can be found in the comprehensive project report: **Business Understanding - MLB Analytics.pdf**.
